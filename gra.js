@@ -4,7 +4,9 @@ los_haslo = ["Witaj", "Siema siemka", "Ziarko do ziarka", "No co tam z tobą si�
 
 var losowanie = Math.floor(Math.random()*7);
 
-alert(losowanie);
+alert(powitanie);
+
+var powitanie = "Witaj na stronie. Miłej gry :D";
 
 var wylosowane_haslo = los_haslo[losowanie];
 
