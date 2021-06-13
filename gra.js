@@ -2,7 +2,7 @@ var los_haslo = new Array(5);
 los_haslo = ["Witaj", "Siema siemka", "Ziarko do ziarka", "No co tam z tobą się dzieje", "grzegorz folryda", "lubie placki"];
 
 
-var losowanie = Math.floor(Math.random()*7);
+var losowanie = Math.floor(Math.random()*6);
 
 var wylosowane_haslo = los_haslo[losowanie];
 
